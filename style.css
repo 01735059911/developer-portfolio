@@ -8,7 +8,7 @@ h1{
 .devcolor{
     color:aqua;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
