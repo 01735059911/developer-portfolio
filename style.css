@@ -32,4 +32,32 @@ h1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.experiences-area{
+    background-image: url( images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.boxer{
+    width: 40%;
+    padding: 5%;
+    border-radius: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px rgb(0, 255, 242);
+    
+}
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, rgb(6, 252, 199));
+    border-image-slice: 1;
+    
+}
+#full{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(255, 0, 85), rgb(248, 14, 104));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
 
